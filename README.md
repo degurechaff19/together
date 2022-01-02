@@ -1,3 +1,15 @@
+Open in Autocode
+================
+
+To add an Open in Autocode button to your GitHub repository,
+simply copy and paste the following code anywhere into README.md
+
+[<img  data-src="https://deploy.stdlib.com/static/images/deploy.svg" width="192">](https://open.autocode.com/)
+
+Enjoy!
+  - Standard Library Team
+
+
 <div align="center">
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-0-orange.svg?style=flat-square)](#contributors-)
